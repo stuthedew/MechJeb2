@@ -1,17 +1,15 @@
 {
-	"NAME":"MechJeb2",
-	"URL":"http://ksp-avc.cybutek.net/version.php?id=6",
-	"VERSION":
-	{
-		"MAJOR":2,
-		"MINOR":5,
-		"PATCH":7,
-		"BUILD":0
-	},
-	"KSP_VERSION":
-	{
-		"MAJOR":1,
-		"MINOR":1,
-		"PATCH":0
-	}
+    "VERSION": {
+        "MAJOR": 2,
+        "MINOR": 5,
+        "PATCH": 6,
+        "BUILD": 0
+    },
+    "NAME": "MechJeb2",
+    "URL": "https://raw.githubusercontent.com/stuthedew/MechJeb2/master/MechJeb2.version",
+    "KSP_VERSION": {
+        "PATCH": 0,
+        "MINOR": 1,
+        "MAJOR": 1
+    }
 }
