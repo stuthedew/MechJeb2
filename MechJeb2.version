@@ -11,5 +11,6 @@
         "BUILD": 0
     },
     "URL": "https://raw.githubusercontent.com/stuthedew/MechJeb2/master/MechJeb2.version",
-    "NAME": "MechJeb2"
+    "NAME": "MechJeb2",
+    "DOWNLOAD" : "http://mods.curse.com/ksp-mods/kerbal/220221-mechjeb/download"
 }
