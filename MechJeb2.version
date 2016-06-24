@@ -1,16 +1,16 @@
 {
+    "NAME": "MechJeb2",
+    "DOWNLOAD": "http://mods.curse.com/ksp-mods/kerbal/220221-mechjeb/download",
     "KSP_VERSION": {
         "MINOR": 1,
-        "PATCH": 0,
-        "MAJOR": 1
+        "MAJOR": 1,
+        "PATCH": 0
     },
     "VERSION": {
         "MAJOR": 2,
         "MINOR": 5,
-        "PATCH": 7,
+        "PATCH": 8,
         "BUILD": 0
     },
-    "URL": "https://raw.githubusercontent.com/stuthedew/MechJeb2/master/MechJeb2.version",
-    "NAME": "MechJeb2",
-    "DOWNLOAD" : "http://mods.curse.com/ksp-mods/kerbal/220221-mechjeb/download"
+    "URL": "https://raw.githubusercontent.com/stuthedew/MechJeb2/master/MechJeb2.version"
 }
